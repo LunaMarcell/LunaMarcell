@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá, meu nome é Luna Marcel<br><br>Bem-vindo(a) ao meu portfolio!<br>Como pode notar estamos em construção 👷🏿‍♀️<br>Estou cursando Analise de Desenvolvimento de Sistemas na FATEC Carapicuíba.<br>Atualmente procuro oportunidade de estagio para aprimorar habilidades e ampliar conhecimentos para no futuro atuar como desenvolvedora full-stack. <br>
+Olá, meu nome é Luna Marcel<br><br>Bem-vindo(a) ao meu portfolio!<br>Como pode notar estamos em construção 👷🏿‍♀️<br>Estou cursando Analise de Desenvolvimento de Sistemas na FATEC Carapicuíba.<br>Atualmente procuro oportunidade de estagio para aprimorar habilidades e ampliar conhecimentos para no futuro atuar como Analista de Dados. <br>
 
 
 ## 🌐 Socials:
